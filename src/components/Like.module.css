@@ -1,0 +1,9 @@
+.buttonDefault {
+    background-color: rgb(253, 234, 66);
+    cursor: pointer;
+}
+
+.buttonLiked {
+    background-color: rgb(247, 34, 34);
+
+}
